@@ -1,0 +1,28 @@
+{
+  "name": "f8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"json-server --watch db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quangg1007/f8.git"
+  },
+  "keywords": [
+    "f8",
+    "f8_nodejs"
+  ],
+  "author": "minhquang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quangg1007/f8/issues"
+  },
+  "homepage": "https://github.com/quangg1007/f8#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "json-server": "^0.17.0"
+  }
+}
